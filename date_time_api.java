@@ -1,7 +1,10 @@
+import java.util.Date;
 class data_time_api{
     public static void main(String[] args) {
         
-        //write a program for add three number in java
+      java.util.Date dt=new java.util.Date();
+      System.out.println(dt);
+        
         
 
 

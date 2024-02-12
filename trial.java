@@ -4,7 +4,7 @@ public class trial {
   public static void main(String[] args) {  
     ZoneId zone1 = ZoneId.of("Asia/Kolkata");  
     ZoneId zone2 = ZoneId.of("Asia/Tokyo"); 
-
+      
     LocalTime time1 = LocalTime.now(zone1);  
     System.out.println("India Time Zone: "+time1); 
 

@@ -22,5 +22,7 @@ public class enum_1 {
     }
     public static void main(String[] args) {
         enum_1.result.Pass.SetMarks(50);
+        int m1=result.Pass.getMarks();
+        System.out.println(m1);
     }
 }

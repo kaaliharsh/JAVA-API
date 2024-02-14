@@ -5,9 +5,5 @@ class data_time_api{
       java.util.Date dt=new java.util.Date();
       System.out.println(dt);
         
-        
-
-
-
     }
 }
